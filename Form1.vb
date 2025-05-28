@@ -38,11 +38,21 @@ Public Class Form1
                     .Image = New Bitmap(fileNames(i))
                     .Tag = fileNames(i)
                     FlowPanel.Controls.Add(pics(i))
-                    AddHandler pics(i).Click
+                    AddHandler pics(i).Click, AddressOf btn_Click
                 Catch ex As Exception
+                    MessageBox.Show("Unable to find any image files")
 
                 End Try
             End With
+        Next
+
+    End Sub
+    Private Sub btn_click(sender As Object, e As EventArgs) Handles OpenToolStripMenuItem.Click
+        Dim pbox As PictureBox = CType(sender, PictureBox)
+        Dim frm As New frmImageForm
+        frm.Text = pbox.Tag.ToString()
+        frm.picBox.Image = New Bitmap(pbox.Tag.ToString())
+        frm.ShowDialog()
 
     End Sub
 End Class
