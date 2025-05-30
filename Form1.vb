@@ -47,12 +47,13 @@ Public Class Form1
         Next
 
     End Sub
-    Private Sub btn_click(sender As Object, e As EventArgs) Handles OpenToolStripMenuItem.Click
+    Private Sub btn_Click(sender As Object, e As EventArgs)
         Dim pbox As PictureBox = CType(sender, PictureBox)
         Dim frm As New frmImageForm
         frm.Text = pbox.Tag.ToString()
         frm.picBox.Image = New Bitmap(pbox.Tag.ToString())
         frm.ShowDialog()
+
 
     End Sub
 End Class

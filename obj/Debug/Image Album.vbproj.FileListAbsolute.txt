@@ -1,0 +1,14 @@
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\bin\Debug\Image Album.exe.config
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\bin\Debug\Image Album.exe
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\bin\Debug\Image Album.pdb
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\bin\Debug\Image Album.xml
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image Album.vbproj.AssemblyReference.cache
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image_Album.Form1.resources
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image_Album.frmImageForm.resources
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image_Album.Resources.resources
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image Album.vbproj.GenerateResource.cache
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image Album.vbproj.CoreCompileInputs.cache
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image Album.exe
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image Album.xml
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image Album.pdb
+C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Image Album\obj\Debug\Image Album.exe.config
